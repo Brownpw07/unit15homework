@@ -147,7 +147,7 @@ Your first mission is to break the authentication scheme. There are a number of 
 
 - **Hint #2**: Find the hidden JavaScript.
 
-[Challenge 1 Complete](images/challenge1complete.png)
+<ins>[Challenge 1 Complete](images/challenge1complete.png)</ins>
 
 #### Challenge #2
 
@@ -157,7 +157,7 @@ Next, steal all of the credit card numbers from the database.
 
 - **Hint #2**: Break your way into the conversation and inject your own ideas.
 
-[Challenge 2 Complete](images/challenge2.png)
+<ins>[Challenge 2 Complete](images/challenge2.png)</ins>
 
 #### Challenge #3
 
@@ -168,7 +168,7 @@ Two clues:
 
 - **Hint 2**: You will need to locate the `webgoat_challenge_guest.jsp` file and inject it with code in order to deface the website.
 
-[Challenge 3](images/challenge3_1.png) [Complete](images/challenge3_2.png)
+<ins>[Challenge 3](images/challenge3_1.png)</ins> <ins>[Complete](images/challenge3_2.png)</ins>
 
 ---
 
